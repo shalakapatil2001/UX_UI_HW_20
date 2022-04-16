@@ -1,0 +1,22 @@
+footer {
+  position: absolute;
+  width: 100%;
+  height: 60px;
+  line-height: 60px;
+  background-color: #beeb6c;
+  margin-top: 50px;
+}
+.cardContainer {
+  margin-bottom: 15px;
+  /*background-color: #075715; */
+}
+.card {
+  margin: 0 auto;
+  background-color: #dfebb6cb
+}
+.signUp form {
+  margin: 35px auto;
+  background-color: #beeb6c;
+  padding: 25px;
+  border-radius: 7px;
+}
